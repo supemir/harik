@@ -1,7 +1,11 @@
 body{
-    background: deepskyblue;
+    background: deeppink;
     color: white;
-    width: 900px;
+    width: 1000px;
     margin: auto;
-    font-size: 1.5em;
+    font-size: 1.4em;
+}
+h1{
+    background: darkmagenta;
+    text-align: center
 }
